@@ -1,4 +1,4 @@
-<h1 align="center">:beginner: Mario Run :beginner:</h1>
+<h1 align="center">:hole: Mario Run :hole:</h1>
 
 ![Mario Jump](https://github.com/Nivaldof12/Mario_JS/assets/88409759/96ec2958-6ea9-4ecc-9212-6bb2948c16fd)
 
